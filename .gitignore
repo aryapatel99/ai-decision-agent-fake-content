@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+src/config.py
+
+.vscode/
+.idea/
+
+*.db
+.DS_Store
